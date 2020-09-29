@@ -1,13 +1,7 @@
-# testing changes
-
-to see if it will cause conflict
+# This is my playground repo fo cs107
 
 * test
 
 * test
 
 * test
-
-Trying to make a conflict
-pair programming 33333333
-conflict lol
